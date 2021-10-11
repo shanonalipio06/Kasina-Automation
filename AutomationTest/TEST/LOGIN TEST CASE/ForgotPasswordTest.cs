@@ -12,7 +12,7 @@ namespace AutomationTest.TEST.LOGIN_TEST_CASE
     class ForgotPasswordTest
     {
 
-        IWebDriver webDriver = new ChromeDriver(@"C:\Users\shanon.alipio\Downloads\chromedriver_win32 (1)");
+        IWebDriver webDriver = new ChromeDriver(@"C:\Users\shanon.alipio\Documents\GitHub\Kasina-Automation\AutomationTest\Drivers\chromedriver.exe");
 
         //Hook in Nunit
         [SetUp]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CfynZBInA5QYF0tjgYzfdUGe/fGh20S25V0eqduSxO0s40nqrpAywBUlgYiU+EN3XtU3fc4/yxnvwkeEpl2/sA==",
+  "dgSpecHash": "B7+qGHABzpE81KAQJeAerezl/mjJK0PVGv5eQW57ijxKfpjqpopDrIDUJDTjzUIFTuw30+WDf8UhqXVtlXSk0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shanon.alipio\\source\\repos\\AutomationTest\\AutomationTest\\Kasina HR Portal.csproj",
+  "projectFilePath": "C:\\Users\\shanon.alipio\\Documents\\GitHub\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shanon.alipio\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\shanon.alipio\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
