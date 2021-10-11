@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shanon.alipio\\Documents\\GitHub\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj": {}
+    "C:\\Users\\shanon.alipio\\source\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shanon.alipio\\Documents\\GitHub\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj": {
+    "C:\\Users\\shanon.alipio\\source\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shanon.alipio\\Documents\\GitHub\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj",
+        "projectUniqueName": "C:\\Users\\shanon.alipio\\source\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj",
         "projectName": "Kasina HR Portal",
-        "projectPath": "C:\\Users\\shanon.alipio\\Documents\\GitHub\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj",
+        "projectPath": "C:\\Users\\shanon.alipio\\source\\Kasina-Automation\\AutomationTest\\Kasina HR Portal.csproj",
         "packagesPath": "C:\\Users\\shanon.alipio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shanon.alipio\\Documents\\GitHub\\Kasina-Automation\\AutomationTest\\obj\\",
+        "outputPath": "C:\\Users\\shanon.alipio\\source\\Kasina-Automation\\AutomationTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

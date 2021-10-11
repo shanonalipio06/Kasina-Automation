@@ -12,7 +12,7 @@ namespace AutomationTest.TEST
     class LoginSuccessTest
     {
 
-        IWebDriver webDriver = new ChromeDriver(@"C:\Users\shanon.alipio\Documents\GitHub\Kasina-Automation\AutomationTest\Drivers\");
+        IWebDriver webDriver = new ChromeDriver();
 
         //Hook in Nunit
         [SetUp]
